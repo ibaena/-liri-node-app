@@ -1,5 +1,5 @@
 var commands =process.argv;
-
+var spotSearch = commands.slice([3]);
 
 
 switch(commands[2]){
@@ -7,18 +7,7 @@ switch(commands[2]){
     var tweetbuilder = require("./tweets.js");
     break;
   case 'spotify-this-song':
-    var spotify = require('spotify');
-
-spotify.search({ type: 'track', query: commands[3] }, function(err, data) {
-    if ( err ) {
-        console.log('Error occurred: ' + err);
-        return;
-    }
-for(i=0;i<data.length;i++){
-      console.log(data);
-
-    }
-});
+    var songbuilder = require("./song-search.js");
     break;
   case 'movie-this':
     console.log('Drive Ins');
