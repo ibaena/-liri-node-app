@@ -1,5 +1,4 @@
 var commands =process.argv;
-var spotSearch = commands.slice([3]);
 
 
 switch(commands[2]){
@@ -10,8 +9,8 @@ switch(commands[2]){
     var songbuilder = require("./song-search.js");
     break;
   case 'movie-this':
-    console.log('Drive Ins');
-    break;
+    var moviebuilder = require("./omdb.js");
+      break;
   case 'do-what-it-says':
     console.log('Simon Told You');
     break;
