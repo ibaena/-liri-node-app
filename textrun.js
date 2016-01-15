@@ -1,6 +1,10 @@
 var commands =process.argv;
-var filename = './random.txt';
-
+var fs = require('fs');
+   
+exports.showtext = fs.readFile('./random.txt', function(err, f){
+    var array = f.toString().split(',');
+    commands[2] = array[0];
+    commands[3] = array[1];
 
 switch(commands[2]){
   case 'my-tweets':
@@ -11,13 +15,6 @@ switch(commands[2]){
     break;
   case 'movie-this':
     var moviebuilder = require("./omdb.js");
-      break;
-  case 'do-what-it-says':
-    var textbuilder = require("./textrun.js");
-
-    //console.log('Simon Told You');
     break;
-  default:
-    console.log('Mr Fails Alot');
-    break;
-}
+    }
+});
