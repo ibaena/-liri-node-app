@@ -1,4 +1,5 @@
 var request = require('request');
+var commands =process.argv;
 var movieSearch = commands.slice([3]);
 var parsedBody;
 

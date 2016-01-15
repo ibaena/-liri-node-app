@@ -1,4 +1,5 @@
 var commands =process.argv;
+var filename = './random.txt';
 
 
 switch(commands[2]){
@@ -12,6 +13,16 @@ switch(commands[2]){
     var moviebuilder = require("./omdb.js");
       break;
   case 'do-what-it-says':
+    var fs = require('fs');
+    fs.readFile('./random.txt', function(err, f){
+    var array = f.toString().split(',');
+    //console.log(array[0]);
+    commands[2] = array[0];
+    commands[3] = array[1];
+
+
+});
+
     console.log('Simon Told You');
     break;
   default:
