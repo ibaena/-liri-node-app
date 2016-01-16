@@ -1,23 +1,27 @@
 var commands =process.argv;
 var filename = './random.txt';
+var fs = require('fs'); 
 
 
 switch(commands[2]){
   case 'my-tweets':
     var tweetbuilder = require("./tweets.js");
+    var filebuilder = require("./write-file.js");
     break;
   case 'spotify-this-song':
     var songbuilder = require("./song-search.js");
+    filebuilder = require("./write-file.js");
     break;
   case 'movie-this':
     var moviebuilder = require("./omdb.js");
+    filebuilder = require("./write-file.js");
       break;
   case 'do-what-it-says':
     var textbuilder = require("./textrun.js");
+    filebuilder = require("./write-file.js");
 
-    //console.log('Simon Told You');
     break;
   default:
-    console.log('Mr Fails Alot');
+    console.log('Oops Something went wrong');
     break;
 }

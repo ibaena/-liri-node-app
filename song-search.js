@@ -15,7 +15,6 @@ spotify.search({ type: 'track', query: query }, function(err, data) {
         return;
     }
     songInfo = data.tracks.items;
-    console.log(data.tracks.total);
   for(i=0;i<songInfo.length;i++){
     for(j=0;j<songInfo[i].artists.length;j++){
       tempsong = songInfo[i].artists[j];
