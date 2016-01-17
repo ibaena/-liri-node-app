@@ -2,6 +2,7 @@ var request = require('request');
 var commands =process.argv;
 var movieSearch = commands.slice([3]);
 var parsedBody;
+var fs = require('fs'); 
 
 exports.showMovie = 
   request('http://www.omdbapi.com/?t='+movieSearch, function (error, response,body) {
@@ -15,7 +16,15 @@ exports.showMovie =
       console.log('Language: '+parsedBody.Language);
       console.log('Plot: '+parsedBody.Plot);
       console.log('Actors: '+parsedBody.Actors); 
-    }
+      var log = 'Title: '+parsedBody.Title+'\r\n'+'Rating: '+parsedBody.Rated +'\r\n'+ 'Release: '+parsedBody.Year+'\r\n'+'IMDB Rating: '+parsedBody.imdbRating +'\r\n'+'Country: '+parsedBody.Country+'\r\n'+'Language: '+parsedBody.Language+'\r\n'+'Plot: '+parsedBody.Plot+'\r\n'+'Actors: '+parsedBody.Actors+'\r\n'+'\r\n';
+     fs.appendFile("./log.txt", log, function(err) {
+      if(err) {
+        return console.log(err);
+      }
+
+      });
+  }
+  console.log("log.txt was updated");
     if(parsedBody.Response === 'False'){
       console.log('Title: Mr. Nobody');
       console.log('Rating: R');

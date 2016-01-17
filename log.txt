@@ -1,8 +1,240 @@
-do-what-it-says,""
-do-what-it-says,""
-do-what-it-says,""
-spotify-this-song,"whats my age"
-my-tweets
-movie-this,"date movie"
-do-what-it-says,""
+Node.js Tutorial with Ryan Dahl, creator of Node.js https://t.co/OHwEXOjgW4 via @YouTube awesome video! #Node
+Sat Jan 16 10:29:25 +0000 2016
+
+i find node js to be so much fun #nosleep
+Thu Jan 14 10:33:26 +0000 2016
+
+At the Kalahari resort in the poconos this place is huge
+Fri Jan 15 22:32:06 +0000 2016
+
+Pulled an all nighter coding with nodejs #noregrets
+Thu Jan 14 15:16:27 +0000 2016
+
+What's a good #api to use for a sports web app?
+Mon Jan 11 22:27:36 +0000 2016
+
+Carmelo Anthony  #nbavote
+Mon Jan 11 22:26:20 +0000 2016
+
+Another brilliant game by @carmeloanthony #knicks
+Mon Jan 11 09:13:15 +0000 2016
+
+Let the Saban to #Giants rumors begin
+Tue Jan 12 06:31:49 +0000 2016
+
+watching #Knicks encore on MSG this team is playing so good!
+Mon Jan 11 06:24:55 +0000 2016
+
+RT @kporzee: Great atmosphere tonight!  #TeamWork #CrowdWasLit 🔶🔷 @kevin_seraphin with the Dab! 😂😂 https://t.co/AWvEbct4TW
+Mon Jan 11 05:53:46 +0000 2016
+
+Artist: Ms. Lauryn Hill
+Song Title: If I Ruled the World (Imagine That)
+Preview: https://p.scdn.co/mp3-preview/f91858bdae13124834a3519b9e5271747c55585e
+Album: It Was Written
+
+Artist: Iyaz
+Song Title: If I Ruled The World
+Preview: https://p.scdn.co/mp3-preview/510b3cc76d180e40f098a959e23ba65ffeb0b524
+Album: Elevate
+
+Artist: Ms. Lauryn Hill
+Song Title: If I Ruled the World (Imagine That)
+Preview: https://p.scdn.co/mp3-preview/09942d053f840205f22b0f7e1c46cf4a2ab3684a
+Album: Greatest Hits
+
+Artist: BTS
+Song Title: If I Ruled the World
+Preview: https://p.scdn.co/mp3-preview/2b29792755b7b994f824f39abdb09fd0f307a772
+Album: O!RUL8,2?
+
+Artist: Ms. Lauryn Hill
+Song Title: If I Ruled the World (Imagine That)
+Preview: https://p.scdn.co/mp3-preview/a4663341ec569330f9d0d6c8779861ecdad999ee
+Album: Greatest Hits
+
+Artist: Tony Bennett
+Song Title: Fly Me To The Moon
+Preview: https://p.scdn.co/mp3-preview/160c1a82765ae5652b844919085aa5e12cd710b9
+Album: If I Ruled The World: Songs For The Jet Set
+
+Artist: Jamie Cullum
+Song Title: If I Ruled The World
+Preview: https://p.scdn.co/mp3-preview/8623bf9f4c62944baad4035fb342155f268ad502
+Album: The Pursuit
+
+Artist: If I Ruled the World
+Song Title: First Song
+Preview: https://p.scdn.co/mp3-preview/6acacbb49056f333b0a95b60e0322394e2924165
+Album: If I Ruled the World
+
+Artist: If I Ruled the World
+Song Title: On and On
+Preview: https://p.scdn.co/mp3-preview/c60ae1da4cbbfd1bfff10206f3b4cb5ab4880c72
+Album: If I Ruled the World
+
+Artist: If I Ruled the World
+Song Title: The Queen and the Ace of Spades
+Preview: https://p.scdn.co/mp3-preview/0e48ef24fbcb349d30f7e7ed04a1885ea1205c3a
+Album: If I Ruled the World
+
+Artist: Tony Bennett
+Song Title: If I Ruled the World
+Preview: https://p.scdn.co/mp3-preview/114c0a01d5e07339d17d07e7343eb1f5a72a1728
+Album: 60 Years: The Artistry of Tony Bennett
+
+Artist: If I Ruled the World
+Song Title: Breathing
+Preview: https://p.scdn.co/mp3-preview/01c2186be0ec78dd940a848355fd5ae9c406c4d0
+Album: If I Ruled the World
+
+Artist: Mona Lisa
+Song Title: If I Ruled The World - Edit
+Preview: https://p.scdn.co/mp3-preview/5a20dbaf924d79ffa85eb12969b2ae6c0c2aae8d
+Album: EDM Mixtape - EP
+
+Artist: Céline Dion
+Song Title: If I Ruled the World
+Preview: https://p.scdn.co/mp3-preview/495f9083232cc895f4ab2280442ce50bc7a4f3f3
+Album: Duets An American Classic
+
+Artist: If I Ruled the World
+Song Title: Blessings
+Preview: https://p.scdn.co/mp3-preview/bded164056fbfa28d188028a024c7a5af2f750e4
+Album: If I Ruled the World
+
+Artist: If I Ruled the World
+Song Title: The Times
+Preview: https://p.scdn.co/mp3-preview/bd2bf4d458ac3152e6f6e6b49754e305f466f97b
+Album: If I Ruled the World
+
+Artist: If I Ruled the World
+Song Title: Something Beautiful
+Preview: https://p.scdn.co/mp3-preview/919150d6a8485c074b16a52485c9302c802a33ff
+Album: If I Ruled the World
+
+Artist: Ms. Lauryn Hill
+Song Title: If I Ruled the World (Imagine That)
+Preview: https://p.scdn.co/mp3-preview/ffcdcbb07895c7f2c16a58ea738b4e6f4365c862
+Album: Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas
+
+Artist: If I Ruled the World
+Song Title: Gloria
+Preview: https://p.scdn.co/mp3-preview/ef4ee4a931dc06043b98f36c27c33d8c70f78188
+Album: If I Ruled the World
+
+Artist: If I Ruled the World
+Song Title: Back to the Start
+Preview: https://p.scdn.co/mp3-preview/691d89833ceed920e295b5f5394d58c2ccba17fb
+Album: If I Ruled the World
+
+Title: Star
+Rating: N/A
+Release: 2001
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: The Driver now carries an arrogant rock star who is visiting a major city (not Pittsburgh as earlier believed). Played by Madonna, this title character wants to get away from her bodyguards...
+Actors: Clive Owen, Michael Beattie, Toru Tanaka Jr., DTeflon
+
 do-what-it-says
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c
+Album: Millennium
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f
+Album: Millennium
+
+Artist: Boyce Avenue
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3
+Album: New Acoustic Sessions, Vol. 3
+
+Artist: Jay Smith
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/bc65890577b72315e413e59acd4c3dbac09fed57
+Album: Jay Smith
+
+Artist: Steel Panther
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/72098ff7b13a7e7b2ec3583d2c83da47d574793d
+Album: I Want It That Way
+
+Artist: Glee Cast
+Song Title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/8d42db4a53e3875d4fbffb2509ff2ddfcaef8bda
+Album: Greatest Hits - Chapter One
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/5db1a44b0f175cbdc01d1a50df0f677493a7c491
+Album: The Very Best Of
+
+Artist: Landon Austin & Julia Sheer
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c
+Album: I Want It That Way
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/62f9abb1bb3311111eee31e167dc157f0f9ec06b
+Album: Greatest Hits - Chapter 1
+
+Artist: Shoshana Bean
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3
+Album: Selfies on Kodachrome
+
+Artist: "Weird Al" Yankovic
+Song Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef
+Album: The Essential Weird Al Yankovic
+
+Artist: Black-Ingvars
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/3e850dc1c766f75dc83deaf702675dab4db5c335
+Album: Kids Superhits
+
+Artist: Anthem Lights
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5
+Album: Covers Part IV
+
+Artist: "Weird Al" Yankovic
+Song Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c
+Album: Poodle Hat
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c
+Album: The Essential Backstreet Boys
+
+Artist: City Angels By Nico Provenzano
+Song Title: I Want It That Way - Sunshine Remix
+Preview: https://p.scdn.co/mp3-preview/975adba049378b1677c6496a31e4da425144c517
+Album: I Want It That Way
+
+Artist: City Angels By Nico Provenzano
+Song Title: I Want It That Way - Radio Edit
+Preview: https://p.scdn.co/mp3-preview/2c4d0ed57cbe4e2a1815588b48a2ee6502476036
+Album: I Want It That Way
+
+Artist: Patent Pending
+Song Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d
+Album: Spring Break '99
+

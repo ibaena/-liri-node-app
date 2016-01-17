@@ -1,5 +1,6 @@
 var keys = require('./keys');
 var Twitter = require('twitter');
+var fs = require('fs'); 
 var clients;
 var params;
 
@@ -19,10 +20,18 @@ client.get('statuses/user_timeline', params, function(error, tweets, response){
     for(i=0;i<tweets.length;i++){
       console.log(tweets[i].text);
       console.log(tweets[i].created_at);
-      console.log(' ')
+      console.log(' ');
+
+      var log = tweets[i].text+'\r\n'+tweets[i].created_at+'\r\n'+'\r\n';
+      fs.appendFile("./log.txt", log, function(err) {
+        if(err) {
+        return console.log(err);
+        }
+      });
     }
-  }
-  else{
-    console.log("DOH!");
-  }
+        console.log("log.txt was updated");
+        }
+        else{
+          console.log("DOH!");
+        }
 });

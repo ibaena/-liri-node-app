@@ -3,6 +3,7 @@ var songInfo;
 var tempsong;
 var commands =process.argv;
 var query = commands.slice([3]);
+var fs = require('fs'); 
 
 exports.showSong = 
 spotify.search({ type: 'track', query: query }, function(err, data) {
@@ -26,6 +27,15 @@ spotify.search({ type: 'track', query: query }, function(err, data) {
      console.log('Preview: '+songInfo[i].preview_url);
      console.log('Album: '+songInfo[i].album.name);
      console.log(' ');
+
+     var log = 'Artist: '+tempsong.name +'\r\n'+'Song Title: '+songInfo[i].name +'\r\n'+ 'Preview: '+songInfo[i].preview_url +'\r\n'+'Album: '+songInfo[i].album.name +'\r\n'+'\r\n';
+     fs.appendFile("./log.txt", log, function(err) {
+      if(err) {
+        return console.log(err);
+      }
+
+      });
   }
+  console.log("log.txt was updated");
    
 });
