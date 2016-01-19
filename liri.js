@@ -1,6 +1,7 @@
-var commands =process.argv;
+var commands = [];
+commands =process.argv;
 var filename = './random.txt';
-var fs = require('fs'); 
+var fs = require('fs');
 
 
 switch(commands[2]){

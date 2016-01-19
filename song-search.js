@@ -3,9 +3,9 @@ var songInfo;
 var tempsong;
 var commands =process.argv;
 var query = commands.slice([3]);
-var fs = require('fs'); 
+var fs = require('fs');
 
-exports.showSong = 
+exports.showSong =
 spotify.search({ type: 'track', query: query }, function(err, data) {
     if ( data.tracks.total === 0) {
       console.log('Artist: Blink 182');
@@ -37,5 +37,5 @@ spotify.search({ type: 'track', query: query }, function(err, data) {
       });
   }
   console.log("log.txt was updated");
-   
+
 });
